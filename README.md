@@ -1,5 +1,5 @@
 #Exemplos de Chaves:
-#### :mag_right: Here's a list of Windows 10 licenses :
+#### :mag_right: Aqui estão todas as Licenças:
     Home                  : TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
     Home N                : 3KHY7-WNT83-DGQKR-F7HPR-844BM
     Home Single Language  : 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
@@ -11,26 +11,22 @@
     Enterprise            : NPPR9-FWDCX-D2C8J-H872K-2YT43
     Enterprise N          : DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
     
-# :hammer_and_wrench: How To Use
-* You can watch my video here for more details :point_right: [Channel Urproject](https://youtu.be/InADUPpjOok).
-* Open your `Command Prompt (CMD)` and `Run as administrator`.
-* Type command `slmgr /ipk yourlicensekey` the command to install license, after a popup appears like in the picture below.
+# :hammer_and_wrench: Vamos Usar os Seguintes comandos: 
+* Abra o `Prompt de comando (CMD)` e `Execute como ADM`.
+* Depois Digite o seguinte comando `slmgr /ipk yourlicensekey` o comando para instalar a licença, após aparecer um popup como na imagem abaixo.
 <p align="center">
-  <img src="https://github.com/zoelabbb/Serial-Key-Windows-10/blob/90b6f8d1c707e74ccd7b621a017cdc004b215efa/img/ipk.PNG">
+  <img src="https://github.com/renandourd0/Chave-de-Ativa-o-W10/blob/main/img/ipk.PNG">
 </p>
 
-* Type command `slmgr /skms kms8.msguides.com` that command to connect to kms server, after a popup appears like in the picture below.
+* Depois digite `slmgr /skms kms8.msguides.com` Esse comando vai se Conectar ao Servidor KMS e fazer a Ativação da rede Local com serviço de Organização
 <p align="center">
-  <img src="https://github.com/zoelabbb/Serial-Key-Windows-10/blob/90b6f8d1c707e74ccd7b621a017cdc004b215efa/img/kms.PNG">
+  <img src="https://github.com/renandourd0/Chave-de-Ativa-o-W10/blob/main/img/kms.PNG">
 </p>
 
-* Last step type command `slmgr /ato` to activate windows 10 license.
-* And voilaa !! your windows activated :point_down:
+* Agora basta digitar `slmgr /ato` para Ativar a licença Windows 10.
+* Show !! Seu Windows 10 já está Ativado :point_down:
 <p align="center">
-  <img width="650px" height="auto" src="https://github.com/zoelabbb/Serial-Key-Windows-10/blob/04a7703a6da9d1beaca747bcb10c9997053bbed5/img/Stepato.PNG">
+  <img width="650px" height="auto" src="https://github.com/renandourd0/Chave-de-Ativa-o-W10/blob/main/img/Stepato.PNG">
 </p>
 
-## :green_circle: Wanna Support me ? You can buy me some coffee via [PayPal :coffee:](https://www.paypal.com/paypalme/haialipp).
-For more details you can see here [License Windows 10 Repo](https://github.com/zoelabbb/Serial-Key-Windows-10.git).
-
-Let's connect with me [Keybase](https://keybase.io/zoelabbb)
+## :)
